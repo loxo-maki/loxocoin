@@ -1,0 +1,2 @@
+# loxocoin
+Ledger-based cryptocurrency
